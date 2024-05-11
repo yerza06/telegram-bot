@@ -1,2 +1,1 @@
-[Bot]
 TOKEN = '6158670431:AAE96JQbvh0whMB3ff-YL_zS_ou4EmiFxEs'
